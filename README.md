@@ -2,7 +2,7 @@
 
 An end-to-end exploratory data analysis of the [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), covering ~100,000 orders placed across multiple Brazilian online marketplaces between 2016 and 2018.
 
-The goal of this project was to extract business-relevant insights across four analytical pillars and synthesize them into a polished report suitable for executive presentation.
+The goal of this project was to extract business-relevant insights across four analytical pillars and synthesize them into a polished report suitable for executive presentation. The notebook code was written entirely by myself, the BI report and README were written by myself with assistance from Claude. 
 
 ---
 
